@@ -1,0 +1,1346 @@
+[
+  {
+    "english": "about",
+    "chinese": "关于；大约",
+    "ipa": "/əˈbaʊt/",
+    "example": "Tell me about your family."
+  },
+  {
+    "english": "after",
+    "chinese": "在……之后",
+    "ipa": "/ˈæftər/",
+    "example": "See you after work."
+  },
+  {
+    "english": "again",
+    "chinese": "再一次",
+    "ipa": "/əˈɡen/",
+    "example": "Please say it again."
+  },
+  {
+    "english": "always",
+    "chinese": "总是",
+    "ipa": "/ˈɔːlweɪz/",
+    "example": "She always gets up early."
+  },
+  {
+    "english": "animal",
+    "chinese": "动物",
+    "ipa": "/ˈænɪməl/",
+    "example": "The panda is my favorite animal."
+  },
+  {
+    "english": "answer",
+    "chinese": "回答；答案",
+    "ipa": "/ˈænsər/",
+    "example": "Please answer the question."
+  },
+  {
+    "english": "apple",
+    "chinese": "苹果",
+    "ipa": "/ˈæpəl/",
+    "example": "I eat an apple every day."
+  },
+  {
+    "english": "April",
+    "chinese": "四月",
+    "ipa": "/ˈeɪprəl/",
+    "example": "My birthday is in April."
+  },
+  {
+    "english": "arm",
+    "chinese": "手臂",
+    "ipa": "/ɑːrm/",
+    "example": "My arm hurts."
+  },
+  {
+    "english": "ask",
+    "chinese": "询问；请求",
+    "ipa": "/æsk/",
+    "example": "Can I ask you a question?"
+  },
+  {
+    "english": "baby",
+    "chinese": "婴儿",
+    "ipa": "/ˈbeɪbi/",
+    "example": "The baby is sleeping."
+  },
+  {
+    "english": "back",
+    "chinese": "后面；背部",
+    "ipa": "/bæk/",
+    "example": "Please come back soon."
+  },
+  {
+    "english": "bag",
+    "chinese": "包；袋子",
+    "ipa": "/bæɡ/",
+    "example": "My bag is under the chair."
+  },
+  {
+    "english": "ball",
+    "chinese": "球",
+    "ipa": "/bɔːl/",
+    "example": "The children play with a ball."
+  },
+  {
+    "english": "banana",
+    "chinese": "香蕉",
+    "ipa": "/bəˈnænə/",
+    "example": "Would you like a banana?"
+  },
+  {
+    "english": "bathroom",
+    "chinese": "浴室；洗手间",
+    "ipa": "/ˈbæθruːm/",
+    "example": "Where is the bathroom?"
+  },
+  {
+    "english": "beautiful",
+    "chinese": "美丽的",
+    "ipa": "/ˈbjuːtɪfəl/",
+    "example": "What a beautiful day!"
+  },
+  {
+    "english": "because",
+    "chinese": "因为",
+    "ipa": "/bɪˈkɔːz/",
+    "example": "I am happy because you are here."
+  },
+  {
+    "english": "bed",
+    "chinese": "床",
+    "ipa": "/bed/",
+    "example": "The cat is on the bed."
+  },
+  {
+    "english": "bedroom",
+    "chinese": "卧室",
+    "ipa": "/ˈbedruːm/",
+    "example": "My bedroom is small."
+  },
+  {
+    "english": "before",
+    "chinese": "在……之前",
+    "ipa": "/bɪˈfɔːr/",
+    "example": "Wash your hands before dinner."
+  },
+  {
+    "english": "begin",
+    "chinese": "开始",
+    "ipa": "/bɪˈɡɪn/",
+    "example": "Let's begin the lesson."
+  },
+  {
+    "english": "bike",
+    "chinese": "自行车",
+    "ipa": "/baɪk/",
+    "example": "I ride my bike to school."
+  },
+  {
+    "english": "bird",
+    "chinese": "鸟",
+    "ipa": "/bɜːrd/",
+    "example": "A bird is in the tree."
+  },
+  {
+    "english": "black",
+    "chinese": "黑色的",
+    "ipa": "/blæk/",
+    "example": "He has a black bag."
+  },
+  {
+    "english": "blue",
+    "chinese": "蓝色的",
+    "ipa": "/bluː/",
+    "example": "The sky is blue."
+  },
+  {
+    "english": "body",
+    "chinese": "身体",
+    "ipa": "/ˈbɑːdi/",
+    "example": "Exercise is good for your body."
+  },
+  {
+    "english": "breakfast",
+    "chinese": "早餐",
+    "ipa": "/ˈbrekfəst/",
+    "example": "I have eggs for breakfast."
+  },
+  {
+    "english": "brother",
+    "chinese": "兄弟；哥哥；弟弟",
+    "ipa": "/ˈbrʌðər/",
+    "example": "My brother is tall."
+  },
+  {
+    "english": "build",
+    "chinese": "建造；建立",
+    "ipa": "/bɪld/",
+    "example": "They want to build a house."
+  },
+  {
+    "english": "bus",
+    "chinese": "公共汽车",
+    "ipa": "/bʌs/",
+    "example": "I take the bus to work."
+  },
+  {
+    "english": "busy",
+    "chinese": "忙碌的",
+    "ipa": "/ˈbɪzi/",
+    "example": "I am busy this afternoon."
+  },
+  {
+    "english": "buy",
+    "chinese": "买",
+    "ipa": "/baɪ/",
+    "example": "I need to buy some milk."
+  },
+  {
+    "english": "call",
+    "chinese": "打电话；称呼",
+    "ipa": "/kɔːl/",
+    "example": "Please call me tonight."
+  },
+  {
+    "english": "car",
+    "chinese": "汽车",
+    "ipa": "/kɑːr/",
+    "example": "Her car is new."
+  },
+  {
+    "english": "care",
+    "chinese": "关心；照顾",
+    "ipa": "/ker/",
+    "example": "Take care of yourself."
+  },
+  {
+    "english": "carry",
+    "chinese": "携带；搬运",
+    "ipa": "/ˈkæri/",
+    "example": "Can you carry this box?"
+  },
+  {
+    "english": "cat",
+    "chinese": "猫",
+    "ipa": "/kæt/",
+    "example": "The cat is sleeping."
+  },
+  {
+    "english": "chair",
+    "chinese": "椅子",
+    "ipa": "/tʃer/",
+    "example": "Please sit on this chair."
+  },
+  {
+    "english": "change",
+    "chinese": "改变；零钱",
+    "ipa": "/tʃeɪndʒ/",
+    "example": "I need to change my plan."
+  },
+  {
+    "english": "cheap",
+    "chinese": "便宜的",
+    "ipa": "/tʃiːp/",
+    "example": "This shirt is cheap."
+  },
+  {
+    "english": "child",
+    "chinese": "孩子",
+    "ipa": "/tʃaɪld/",
+    "example": "The child is happy."
+  },
+  {
+    "english": "clean",
+    "chinese": "干净的；打扫",
+    "ipa": "/kliːn/",
+    "example": "Please clean your room."
+  },
+  {
+    "english": "close",
+    "chinese": "关闭；靠近",
+    "ipa": "/kloʊz/",
+    "example": "Please close the door."
+  },
+  {
+    "english": "clothes",
+    "chinese": "衣服",
+    "ipa": "/kloʊðz/",
+    "example": "These clothes are clean."
+  },
+  {
+    "english": "coffee",
+    "chinese": "咖啡",
+    "ipa": "/ˈkɔːfi/",
+    "example": "I drink coffee in the morning."
+  },
+  {
+    "english": "color",
+    "chinese": "颜色",
+    "ipa": "/ˈkʌlər/",
+    "example": "What is your favorite color?"
+  },
+  {
+    "english": "computer",
+    "chinese": "电脑",
+    "ipa": "/kəmˈpjuːtər/",
+    "example": "I use a computer at work."
+  },
+  {
+    "english": "cook",
+    "chinese": "做饭；厨师",
+    "ipa": "/kʊk/",
+    "example": "I cook dinner every day."
+  },
+  {
+    "english": "correct",
+    "chinese": "正确的",
+    "ipa": "/kəˈrekt/",
+    "example": "Your answer is correct."
+  },
+  {
+    "english": "country",
+    "chinese": "国家；乡村",
+    "ipa": "/ˈkʌntri/",
+    "example": "China is a big country."
+  },
+  {
+    "english": "dance",
+    "chinese": "跳舞；舞蹈",
+    "ipa": "/dæns/",
+    "example": "They dance very well."
+  },
+  {
+    "english": "daughter",
+    "chinese": "女儿",
+    "ipa": "/ˈdɔːtər/",
+    "example": "Their daughter is five."
+  },
+  {
+    "english": "decide",
+    "chinese": "决定",
+    "ipa": "/dɪˈsaɪd/",
+    "example": "I cannot decide now."
+  },
+  {
+    "english": "desk",
+    "chinese": "书桌；办公桌",
+    "ipa": "/desk/",
+    "example": "The book is on the desk."
+  },
+  {
+    "english": "dinner",
+    "chinese": "晚餐",
+    "ipa": "/ˈdɪnər/",
+    "example": "Dinner is ready."
+  },
+  {
+    "english": "doctor",
+    "chinese": "医生",
+    "ipa": "/ˈdɑːktər/",
+    "example": "I need to see a doctor."
+  },
+  {
+    "english": "door",
+    "chinese": "门",
+    "ipa": "/dɔːr/",
+    "example": "Please open the door."
+  },
+  {
+    "english": "drive",
+    "chinese": "驾驶；开车",
+    "ipa": "/draɪv/",
+    "example": "I drive to work."
+  },
+  {
+    "english": "early",
+    "chinese": "早；提早",
+    "ipa": "/ˈɜːrli/",
+    "example": "I get up early."
+  },
+  {
+    "english": "easy",
+    "chinese": "容易的",
+    "ipa": "/ˈiːzi/",
+    "example": "This question is easy."
+  },
+  {
+    "english": "egg",
+    "chinese": "鸡蛋",
+    "ipa": "/eɡ/",
+    "example": "I eat an egg for breakfast."
+  },
+  {
+    "english": "enjoy",
+    "chinese": "享受；喜欢",
+    "ipa": "/ɪnˈdʒɔɪ/",
+    "example": "I enjoy learning English."
+  },
+  {
+    "english": "every",
+    "chinese": "每一个；每",
+    "ipa": "/ˈevri/",
+    "example": "I study every day."
+  },
+  {
+    "english": "everyone",
+    "chinese": "每个人",
+    "ipa": "/ˈevriwʌn/",
+    "example": "Everyone is welcome."
+  },
+  {
+    "english": "expensive",
+    "chinese": "昂贵的",
+    "ipa": "/ɪkˈspensɪv/",
+    "example": "This phone is expensive."
+  },
+  {
+    "english": "eye",
+    "chinese": "眼睛",
+    "ipa": "/aɪ/",
+    "example": "She has brown eyes."
+  },
+  {
+    "english": "face",
+    "chinese": "脸",
+    "ipa": "/feɪs/",
+    "example": "Wash your face."
+  },
+  {
+    "english": "favorite",
+    "chinese": "最喜欢的",
+    "ipa": "/ˈfeɪvərɪt/",
+    "example": "Blue is my favorite color."
+  },
+  {
+    "english": "feel",
+    "chinese": "感觉；觉得",
+    "ipa": "/fiːl/",
+    "example": "I feel much better."
+  },
+  {
+    "english": "finish",
+    "chinese": "完成；结束",
+    "ipa": "/ˈfɪnɪʃ/",
+    "example": "I finish work at six."
+  },
+  {
+    "english": "first",
+    "chinese": "第一；首先",
+    "ipa": "/fɜːrst/",
+    "example": "This is my first lesson."
+  },
+  {
+    "english": "flower",
+    "chinese": "花",
+    "ipa": "/ˈflaʊər/",
+    "example": "The flowers are beautiful."
+  },
+  {
+    "english": "follow",
+    "chinese": "跟随；遵循",
+    "ipa": "/ˈfɑːloʊ/",
+    "example": "Please follow me."
+  },
+  {
+    "english": "foot",
+    "chinese": "脚",
+    "ipa": "/fʊt/",
+    "example": "My foot hurts."
+  },
+  {
+    "english": "free",
+    "chinese": "免费的；空闲的",
+    "ipa": "/friː/",
+    "example": "This app is free."
+  },
+  {
+    "english": "Friday",
+    "chinese": "星期五",
+    "ipa": "/ˈfraɪdeɪ/",
+    "example": "See you on Friday."
+  },
+  {
+    "english": "full",
+    "chinese": "满的；饱的",
+    "ipa": "/fʊl/",
+    "example": "The glass is full."
+  },
+  {
+    "english": "game",
+    "chinese": "游戏；比赛",
+    "ipa": "/ɡeɪm/",
+    "example": "Let's play a game."
+  },
+  {
+    "english": "garden",
+    "chinese": "花园",
+    "ipa": "/ˈɡɑːrdən/",
+    "example": "There are flowers in the garden."
+  },
+  {
+    "english": "girl",
+    "chinese": "女孩",
+    "ipa": "/ɡɜːrl/",
+    "example": "The girl is reading."
+  },
+  {
+    "english": "give",
+    "chinese": "给",
+    "ipa": "/ɡɪv/",
+    "example": "Please give me the book."
+  },
+  {
+    "english": "glass",
+    "chinese": "玻璃杯；玻璃",
+    "ipa": "/ɡlæs/",
+    "example": "A glass of water, please."
+  },
+  {
+    "english": "great",
+    "chinese": "很好的；伟大的",
+    "ipa": "/ɡreɪt/",
+    "example": "You did a great job."
+  },
+  {
+    "english": "green",
+    "chinese": "绿色的",
+    "ipa": "/ɡriːn/",
+    "example": "The grass is green."
+  },
+  {
+    "english": "group",
+    "chinese": "组；群",
+    "ipa": "/ɡruːp/",
+    "example": "Work in a small group."
+  },
+  {
+    "english": "grow",
+    "chinese": "生长；成长",
+    "ipa": "/ɡroʊ/",
+    "example": "Children grow quickly."
+  },
+  {
+    "english": "guess",
+    "chinese": "猜测",
+    "ipa": "/ɡes/",
+    "example": "Can you guess the answer?"
+  },
+  {
+    "english": "hair",
+    "chinese": "头发",
+    "ipa": "/her/",
+    "example": "Her hair is long."
+  },
+  {
+    "english": "hand",
+    "chinese": "手",
+    "ipa": "/hænd/",
+    "example": "Raise your hand."
+  },
+  {
+    "english": "happy",
+    "chinese": "高兴的",
+    "ipa": "/ˈhæpi/",
+    "example": "I am happy today."
+  },
+  {
+    "english": "hard",
+    "chinese": "困难的；努力地",
+    "ipa": "/hɑːrd/",
+    "example": "English is not too hard."
+  },
+  {
+    "english": "head",
+    "chinese": "头",
+    "ipa": "/hed/",
+    "example": "My head hurts."
+  },
+  {
+    "english": "healthy",
+    "chinese": "健康的",
+    "ipa": "/ˈhelθi/",
+    "example": "Fruit is healthy food."
+  },
+  {
+    "english": "heart",
+    "chinese": "心；心脏",
+    "ipa": "/hɑːrt/",
+    "example": "My heart is beating fast."
+  },
+  {
+    "english": "heavy",
+    "chinese": "重的",
+    "ipa": "/ˈhevi/",
+    "example": "This box is heavy."
+  },
+  {
+    "english": "holiday",
+    "chinese": "假期；节日",
+    "ipa": "/ˈhɑːlədeɪ/",
+    "example": "We are on holiday."
+  },
+  {
+    "english": "hospital",
+    "chinese": "医院",
+    "ipa": "/ˈhɑːspɪtəl/",
+    "example": "The hospital is near here."
+  },
+  {
+    "english": "hour",
+    "chinese": "小时",
+    "ipa": "/ˈaʊər/",
+    "example": "I study for one hour."
+  },
+  {
+    "english": "house",
+    "chinese": "房子",
+    "ipa": "/haʊs/",
+    "example": "They live in a big house."
+  },
+  {
+    "english": "hungry",
+    "chinese": "饥饿的",
+    "ipa": "/ˈhʌŋɡri/",
+    "example": "I am hungry now."
+  },
+  {
+    "english": "important",
+    "chinese": "重要的",
+    "ipa": "/ɪmˈpɔːrtənt/",
+    "example": "English is important for my work."
+  },
+  {
+    "english": "inside",
+    "chinese": "里面；在里面",
+    "ipa": "/ˌɪnˈsaɪd/",
+    "example": "Please come inside."
+  },
+  {
+    "english": "January",
+    "chinese": "一月",
+    "ipa": "/ˈdʒænjuˌeri/",
+    "example": "January is the first month."
+  },
+  {
+    "english": "job",
+    "chinese": "工作；职业",
+    "ipa": "/dʒɑːb/",
+    "example": "I like my job."
+  },
+  {
+    "english": "join",
+    "chinese": "加入",
+    "ipa": "/dʒɔɪn/",
+    "example": "Can I join your team?"
+  },
+  {
+    "english": "July",
+    "chinese": "七月",
+    "ipa": "/dʒʊˈlaɪ/",
+    "example": "It is hot in July."
+  },
+  {
+    "english": "June",
+    "chinese": "六月",
+    "ipa": "/dʒuːn/",
+    "example": "School ends in June."
+  },
+  {
+    "english": "kind",
+    "chinese": "友善的；种类",
+    "ipa": "/kaɪnd/",
+    "example": "She is very kind."
+  },
+  {
+    "english": "kitchen",
+    "chinese": "厨房",
+    "ipa": "/ˈkɪtʃən/",
+    "example": "My mother is in the kitchen."
+  },
+  {
+    "english": "know",
+    "chinese": "知道；认识",
+    "ipa": "/noʊ/",
+    "example": "I know the answer."
+  },
+  {
+    "english": "language",
+    "chinese": "语言",
+    "ipa": "/ˈlæŋɡwɪdʒ/",
+    "example": "English is an important language."
+  },
+  {
+    "english": "large",
+    "chinese": "大的；大量的",
+    "ipa": "/lɑːrdʒ/",
+    "example": "They have a large family."
+  },
+  {
+    "english": "late",
+    "chinese": "迟到的；晚的",
+    "ipa": "/leɪt/",
+    "example": "Sorry, I am late."
+  },
+  {
+    "english": "lesson",
+    "chinese": "课程；课",
+    "ipa": "/ˈlesən/",
+    "example": "Today's lesson is easy."
+  },
+  {
+    "english": "letter",
+    "chinese": "字母；信",
+    "ipa": "/ˈletər/",
+    "example": "Write me a letter."
+  },
+  {
+    "english": "life",
+    "chinese": "生活；生命",
+    "ipa": "/laɪf/",
+    "example": "Life is beautiful."
+  },
+  {
+    "english": "light",
+    "chinese": "光；轻的",
+    "ipa": "/laɪt/",
+    "example": "Turn on the light."
+  },
+  {
+    "english": "line",
+    "chinese": "线；队伍",
+    "ipa": "/laɪn/",
+    "example": "Please stand in line."
+  },
+  {
+    "english": "lunch",
+    "chinese": "午餐",
+    "ipa": "/lʌntʃ/",
+    "example": "Let's have lunch together."
+  },
+  {
+    "english": "market",
+    "chinese": "市场",
+    "ipa": "/ˈmɑːrkɪt/",
+    "example": "I buy fruit at the market."
+  },
+  {
+    "english": "May",
+    "chinese": "五月；可以",
+    "ipa": "/meɪ/",
+    "example": "May is a warm month."
+  },
+  {
+    "english": "meet",
+    "chinese": "遇见；会面",
+    "ipa": "/miːt/",
+    "example": "Let's meet tomorrow."
+  },
+  {
+    "english": "milk",
+    "chinese": "牛奶",
+    "ipa": "/mɪlk/",
+    "example": "I drink milk every morning."
+  },
+  {
+    "english": "minute",
+    "chinese": "分钟",
+    "ipa": "/ˈmɪnɪt/",
+    "example": "Wait a minute, please."
+  },
+  {
+    "english": "Monday",
+    "chinese": "星期一",
+    "ipa": "/ˈmʌndeɪ/",
+    "example": "The meeting is on Monday."
+  },
+  {
+    "english": "month",
+    "chinese": "月份；月",
+    "ipa": "/mʌnθ/",
+    "example": "There are twelve months in a year."
+  },
+  {
+    "english": "mother",
+    "chinese": "母亲",
+    "ipa": "/ˈmʌðər/",
+    "example": "My mother is a teacher."
+  },
+  {
+    "english": "mountain",
+    "chinese": "山",
+    "ipa": "/ˈmaʊntən/",
+    "example": "The mountain is very high."
+  },
+  {
+    "english": "move",
+    "chinese": "移动；搬家",
+    "ipa": "/muːv/",
+    "example": "Please move your chair."
+  },
+  {
+    "english": "music",
+    "chinese": "音乐",
+    "ipa": "/ˈmjuːzɪk/",
+    "example": "I like listening to music."
+  },
+  {
+    "english": "near",
+    "chinese": "附近；靠近",
+    "ipa": "/nɪr/",
+    "example": "The store is near my home."
+  },
+  {
+    "english": "never",
+    "chinese": "从不",
+    "ipa": "/ˈnevər/",
+    "example": "I never drink coffee at night."
+  },
+  {
+    "english": "new",
+    "chinese": "新的",
+    "ipa": "/nuː/",
+    "example": "I have a new phone."
+  },
+  {
+    "english": "news",
+    "chinese": "新闻",
+    "ipa": "/nuːz/",
+    "example": "I watch the news every day."
+  },
+  {
+    "english": "next",
+    "chinese": "下一个；接下来",
+    "ipa": "/nekst/",
+    "example": "See you next week."
+  },
+  {
+    "english": "nice",
+    "chinese": "好的；令人愉快的",
+    "ipa": "/naɪs/",
+    "example": "Have a nice day."
+  },
+  {
+    "english": "open",
+    "chinese": "打开；开放的",
+    "ipa": "/ˈoʊpən/",
+    "example": "Please open the window."
+  },
+  {
+    "english": "parent",
+    "chinese": "父亲或母亲",
+    "ipa": "/ˈperənt/",
+    "example": "My parents live nearby."
+  },
+  {
+    "english": "park",
+    "chinese": "公园；停车",
+    "ipa": "/pɑːrk/",
+    "example": "Let's walk in the park."
+  },
+  {
+    "english": "party",
+    "chinese": "聚会；派对",
+    "ipa": "/ˈpɑːrti/",
+    "example": "We have a party tonight."
+  },
+  {
+    "english": "people",
+    "chinese": "人们",
+    "ipa": "/ˈpiːpəl/",
+    "example": "Many people work here."
+  },
+  {
+    "english": "picture",
+    "chinese": "图片；照片",
+    "ipa": "/ˈpɪktʃər/",
+    "example": "Look at this picture."
+  },
+  {
+    "english": "place",
+    "chinese": "地方；放置",
+    "ipa": "/pleɪs/",
+    "example": "This is a beautiful place."
+  },
+  {
+    "english": "plan",
+    "chinese": "计划",
+    "ipa": "/plæn/",
+    "example": "What is your plan?"
+  },
+  {
+    "english": "play",
+    "chinese": "玩；播放",
+    "ipa": "/pleɪ/",
+    "example": "The children play outside."
+  },
+  {
+    "english": "question",
+    "chinese": "问题",
+    "ipa": "/ˈkwestʃən/",
+    "example": "I have a question."
+  },
+  {
+    "english": "quick",
+    "chinese": "快的",
+    "ipa": "/kwɪk/",
+    "example": "Please give me a quick answer."
+  },
+  {
+    "english": "quiet",
+    "chinese": "安静的",
+    "ipa": "/ˈkwaɪət/",
+    "example": "The room is quiet."
+  },
+  {
+    "english": "remember",
+    "chinese": "记得；记住",
+    "ipa": "/rɪˈmembər/",
+    "example": "Remember my name."
+  },
+  {
+    "english": "restaurant",
+    "chinese": "餐馆",
+    "ipa": "/ˈrestərɑːnt/",
+    "example": "This restaurant is good."
+  },
+  {
+    "english": "return",
+    "chinese": "返回；归还",
+    "ipa": "/rɪˈtɜːrn/",
+    "example": "Please return the book."
+  },
+  {
+    "english": "Saturday",
+    "chinese": "星期六",
+    "ipa": "/ˈsætərdeɪ/",
+    "example": "I work on Saturday."
+  },
+  {
+    "english": "second",
+    "chinese": "第二；秒",
+    "ipa": "/ˈsekənd/",
+    "example": "Wait a second."
+  },
+  {
+    "english": "sister",
+    "chinese": "姐妹",
+    "ipa": "/ˈsɪstər/",
+    "example": "My sister is a student."
+  },
+  {
+    "english": "smile",
+    "chinese": "微笑",
+    "ipa": "/smaɪl/",
+    "example": "Please smile for the photo."
+  },
+  {
+    "english": "Sunday",
+    "chinese": "星期日",
+    "ipa": "/ˈsʌndeɪ/",
+    "example": "We rest on Sunday."
+  },
+  {
+    "english": "teacher",
+    "chinese": "老师",
+    "ipa": "/ˈtiːtʃər/",
+    "example": "My English teacher is kind."
+  },
+  {
+    "english": "team",
+    "chinese": "团队；队",
+    "ipa": "/tiːm/",
+    "example": "Our team is strong."
+  },
+  {
+    "english": "Thursday",
+    "chinese": "星期四",
+    "ipa": "/ˈθɜːrzdeɪ/",
+    "example": "I have a class on Thursday."
+  },
+  {
+    "english": "Tuesday",
+    "chinese": "星期二",
+    "ipa": "/ˈtuːzdeɪ/",
+    "example": "See you on Tuesday."
+  },
+  {
+    "english": "use",
+    "chinese": "使用",
+    "ipa": "/juːz/",
+    "example": "I use this app every day."
+  },
+  {
+    "english": "usually",
+    "chinese": "通常",
+    "ipa": "/ˈjuːʒuəli/",
+    "example": "I usually walk to work."
+  },
+  {
+    "english": "visit",
+    "chinese": "参观；拜访",
+    "ipa": "/ˈvɪzɪt/",
+    "example": "I want to visit Beijing."
+  },
+  {
+    "english": "wait",
+    "chinese": "等待",
+    "ipa": "/weɪt/",
+    "example": "Please wait here."
+  },
+  {
+    "english": "walk",
+    "chinese": "走路；散步",
+    "ipa": "/wɔːk/",
+    "example": "I walk after dinner."
+  },
+  {
+    "english": "wall",
+    "chinese": "墙",
+    "ipa": "/wɔːl/",
+    "example": "There is a clock on the wall."
+  },
+  {
+    "english": "week",
+    "chinese": "星期；周",
+    "ipa": "/wiːk/",
+    "example": "I study English every week."
+  },
+  {
+    "english": "weekend",
+    "chinese": "周末",
+    "ipa": "/ˌwiːkˈend/",
+    "example": "Have a nice weekend."
+  },
+  {
+    "english": "welcome",
+    "chinese": "欢迎",
+    "ipa": "/ˈwelkəm/",
+    "example": "Welcome to our home."
+  },
+  {
+    "english": "window",
+    "chinese": "窗户",
+    "ipa": "/ˈwɪndoʊ/",
+    "example": "Please close the window."
+  },
+  {
+    "english": "woman",
+    "chinese": "女人；女性",
+    "ipa": "/ˈwʊmən/",
+    "example": "The woman is a doctor."
+  },
+  {
+    "english": "young",
+    "chinese": "年轻的",
+    "ipa": "/jʌŋ/",
+    "example": "He is young and kind."
+  },
+  {
+    "english": "hello",
+    "chinese": "你好；您好",
+    "ipa": "",
+    "example": "Hello! How are you?"
+  },
+  {
+    "english": "goodbye",
+    "chinese": "再见",
+    "ipa": "",
+    "example": "Goodbye. See you tomorrow."
+  },
+  {
+    "english": "please",
+    "chinese": "请",
+    "ipa": "",
+    "example": "Water, please."
+  },
+  {
+    "english": "thank you",
+    "chinese": "谢谢",
+    "ipa": "",
+    "example": "Thank you very much."
+  },
+  {
+    "english": "sorry",
+    "chinese": "对不起；抱歉",
+    "ipa": "",
+    "example": "I am sorry."
+  },
+  {
+    "english": "yes",
+    "chinese": "是；好的",
+    "ipa": "",
+    "example": "Yes, I understand."
+  },
+  {
+    "english": "no",
+    "chinese": "不；不是",
+    "ipa": "",
+    "example": "No, thank you."
+  },
+  {
+    "english": "water",
+    "chinese": "水",
+    "ipa": "",
+    "example": "I need some water."
+  },
+  {
+    "english": "food",
+    "chinese": "食物",
+    "ipa": "",
+    "example": "The food is good."
+  },
+  {
+    "english": "help",
+    "chinese": "帮助",
+    "ipa": "",
+    "example": "Can you help me?"
+  },
+  {
+    "english": "good",
+    "chinese": "好的；不错",
+    "ipa": "",
+    "example": "That sounds good."
+  },
+  {
+    "english": "bad",
+    "chinese": "坏的；糟糕的",
+    "ipa": "",
+    "example": "The weather is bad."
+  },
+  {
+    "english": "big",
+    "chinese": "大的",
+    "ipa": "",
+    "example": "It is a big house."
+  },
+  {
+    "english": "small",
+    "chinese": "小的",
+    "ipa": "",
+    "example": "I have a small bag."
+  },
+  {
+    "english": "hot",
+    "chinese": "热的",
+    "ipa": "",
+    "example": "The tea is hot."
+  },
+  {
+    "english": "cold",
+    "chinese": "冷的",
+    "ipa": "",
+    "example": "The water is cold."
+  },
+  {
+    "english": "home",
+    "chinese": "家；家里",
+    "ipa": "",
+    "example": "I am at home."
+  },
+  {
+    "english": "school",
+    "chinese": "学校",
+    "ipa": "",
+    "example": "I go to school."
+  },
+  {
+    "english": "work",
+    "chinese": "工作",
+    "ipa": "",
+    "example": "I go to work."
+  },
+  {
+    "english": "friend",
+    "chinese": "朋友",
+    "ipa": "",
+    "example": "She is my friend."
+  },
+  {
+    "english": "family",
+    "chinese": "家庭；家人",
+    "ipa": "",
+    "example": "I love my family."
+  },
+  {
+    "english": "person",
+    "chinese": "人；人物",
+    "ipa": "",
+    "example": "He is a good person."
+  },
+  {
+    "english": "name",
+    "chinese": "名字",
+    "ipa": "",
+    "example": "What is your name?"
+  },
+  {
+    "english": "time",
+    "chinese": "时间",
+    "ipa": "",
+    "example": "What time is it?"
+  },
+  {
+    "english": "day",
+    "chinese": "白天；一天",
+    "ipa": "",
+    "example": "Have a nice day."
+  },
+  {
+    "english": "night",
+    "chinese": "夜晚",
+    "ipa": "",
+    "example": "Good night."
+  },
+  {
+    "english": "morning",
+    "chinese": "早晨",
+    "ipa": "",
+    "example": "Good morning."
+  },
+  {
+    "english": "today",
+    "chinese": "今天",
+    "ipa": "",
+    "example": "I am busy today."
+  },
+  {
+    "english": "tomorrow",
+    "chinese": "明天",
+    "ipa": "",
+    "example": "See you tomorrow."
+  },
+  {
+    "english": "yesterday",
+    "chinese": "昨天",
+    "ipa": "",
+    "example": "I was busy yesterday."
+  },
+  {
+    "english": "go",
+    "chinese": "去",
+    "ipa": "",
+    "example": "Let's go."
+  },
+  {
+    "english": "come",
+    "chinese": "来",
+    "ipa": "",
+    "example": "Please come here."
+  },
+  {
+    "english": "eat",
+    "chinese": "吃",
+    "ipa": "",
+    "example": "I want to eat."
+  },
+  {
+    "english": "drink",
+    "chinese": "喝；饮料",
+    "ipa": "",
+    "example": "Drink more water."
+  },
+  {
+    "english": "sleep",
+    "chinese": "睡觉",
+    "ipa": "",
+    "example": "I need to sleep."
+  },
+  {
+    "english": "read",
+    "chinese": "阅读",
+    "ipa": "",
+    "example": "I read every day."
+  },
+  {
+    "english": "write",
+    "chinese": "写",
+    "ipa": "",
+    "example": "Please write your name."
+  },
+  {
+    "english": "speak",
+    "chinese": "说；讲",
+    "ipa": "",
+    "example": "Please speak slowly."
+  },
+  {
+    "english": "listen",
+    "chinese": "听",
+    "ipa": "",
+    "example": "Listen to me."
+  },
+  {
+    "english": "learn",
+    "chinese": "学习",
+    "ipa": "",
+    "example": "I learn English."
+  },
+  {
+    "english": "book",
+    "chinese": "书",
+    "ipa": "",
+    "example": "This is my book."
+  },
+  {
+    "english": "phone",
+    "chinese": "电话；手机",
+    "ipa": "",
+    "example": "My phone is new."
+  },
+  {
+    "english": "money",
+    "chinese": "钱",
+    "ipa": "",
+    "example": "How much money?"
+  },
+  {
+    "english": "price",
+    "chinese": "价格",
+    "ipa": "",
+    "example": "What is the price?"
+  },
+  {
+    "english": "shop",
+    "chinese": "商店；购物",
+    "ipa": "",
+    "example": "The shop is open."
+  },
+  {
+    "english": "street",
+    "chinese": "街道",
+    "ipa": "",
+    "example": "This street is busy."
+  },
+  {
+    "english": "left",
+    "chinese": "左边",
+    "ipa": "",
+    "example": "Turn left."
+  },
+  {
+    "english": "right",
+    "chinese": "右边；正确的",
+    "ipa": "",
+    "example": "Turn right."
+  },
+  {
+    "english": "where",
+    "chinese": "哪里",
+    "ipa": "",
+    "example": "Where are you?"
+  },
+  {
+    "english": "when",
+    "chinese": "什么时候",
+    "ipa": "",
+    "example": "When is your birthday?"
+  },
+  {
+    "english": "why",
+    "chinese": "为什么",
+    "ipa": "",
+    "example": "Why are you here?"
+  }
+]
